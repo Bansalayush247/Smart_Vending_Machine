@@ -10,6 +10,12 @@ The **Smart Vending Machine** project modernizes traditional vending systems by 
 
 ---
 
+## **Work Flow**
+
+![image](https://github.com/user-attachments/assets/4f4cb40a-4db1-4070-82b5-fd587d18440b)
+
+---
+
 ## **Features**  
 
 - **Dynamic NFC Integration**: Identifies users via NFC-enabled devices using NodeMCU and an RFID scanner.  
