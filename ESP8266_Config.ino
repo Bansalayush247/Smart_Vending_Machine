@@ -4,11 +4,11 @@
 #include <MFRC522.h>
 
 // WiFi credentials
-const char* ssid = "5G";
-const char* password = "Devarsh95";
+const char* ssid = "Your SSID";
+const char* password = "Your Password";
 
 // Server URL
-const char* serverUrl = "http://192.168.152.115:5000/rfid"; // Replace with your Raspberry Pi's IP
+const char* serverUrl = "http://192.168.152.115:5000/rfid"; // Replace with your Raspberry Pi's IP and port
 
 // RFID Reader pins
 constexpr uint8_t RST_PIN = D3;  // Configurable, see typical pin layout above
