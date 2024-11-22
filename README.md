@@ -10,12 +10,6 @@ The **Smart Vending Machine** project modernizes traditional vending systems by 
 
 ---
 
-## **Work Flow**
-
-![image](https://github.com/user-attachments/assets/4f4cb40a-4db1-4070-82b5-fd587d18440b)
-
----
-
 ## **Features**  
 
 - **Dynamic NFC Integration**: Identifies users via NFC-enabled devices using NodeMCU and an RFID scanner.  
@@ -45,8 +39,10 @@ The **Smart Vending Machine** project modernizes traditional vending systems by 
 1. **Scan**: Users scan their NFC-enabled devices (phones) via the RFID scanner.  
 2. **Identify**: NodeMCU processes the scanned data and forwards it to Raspberry Pi.  
 3. **Browse**: Raspberry Pi hosts a web interface, enabling users to browse and select products.  
-4. **Purchase**: Users complete transactions via the web application for a seamless, contactless experience.  
+4. **Purchase**: Users complete transactions via the web application for a seamless, contactless experience.
 
+   ![image](https://github.com/user-attachments/assets/4f4cb40a-4db1-4070-82b5-fd587d18440b)
+   
 ---
 
 ## **Analysis and Findings**  
