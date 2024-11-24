@@ -69,7 +69,8 @@ The **Smart Vending Machine** project modernizes traditional vending systems by 
 ## **How to Use**  
 
 1. **Setup Hardware**:  
-   - Connect the NodeMCU with an RFID scanner.  
+   - Connect the NodeMCU with an RFID scanner.
+     ![image](https://github.com/user-attachments/assets/a1a0c170-5d13-4f2c-aac6-fc47ac3644e5)
    - Link the Raspberry Pi to host the backend and web application.  
 
 2. **Run Backend Application**:  
